@@ -1,1 +1,2 @@
 这是使用git clone git@github.com:fushoudong/gitskills.git从远程仓库下载的内容，现在想将本地仓库文件上传到远程仓库。
+这是添加部分。
